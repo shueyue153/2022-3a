@@ -14,3 +14,7 @@
 s = "Python syntax highlighting"
 print(s)
 ```
+
+| 專案        | 價格   |  數量  |
+| --------   |  -------- | -------- |
+|test        |$600     |30|
